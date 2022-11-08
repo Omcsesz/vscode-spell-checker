@@ -2283,7 +2283,7 @@
   "dependencies": {
     "@cspell/cspell-bundled-dicts": "^6.14.1",
     "@cspell/cspell-types": "^6.14.1",
-    "@types/react": "^17.0.52",
+    "@types/react": "^18.0.25",
     "cosmiconfig": "^7.0.1",
     "cspell": "^6.14.1",
     "regexp-worker": "^2.0.1"
